@@ -1,2 +1,2 @@
-# sample JAVA programmes
-my first project
+sample JAVA programmes
+my first JAVA projects
