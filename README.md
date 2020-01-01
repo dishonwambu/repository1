@@ -1,2 +1,2 @@
-# repository1
+# sample JAVA programmes
 my first project
